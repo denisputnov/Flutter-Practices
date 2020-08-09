@@ -1,7 +1,8 @@
-# Flutter-Practices
-In this repository you can find my practices in Dart/Flutter. There are many code examples, which interesting to see.
+# Weather App #1
 
-Usually, here you can see not a commerce projects. It's my code from different courses.
+`main.dart` file, which contains main structure of this app. 
+
+![App Screenshot](http://i.piccy.info/i9/a297109a6b39c0e669ebabeec59808da/1596979371/199654/1391381/Screenshot_1596974464.jpg)
 
 ### Find me here:
 
